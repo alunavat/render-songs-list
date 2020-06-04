@@ -1,4 +1,4 @@
-# list-of-blogposts
+# Songs List with React-Redux
 This app renders a list of songs and displays them to the user along with a selected song. The songs are dummy retievals within the app.
 
 Ket functionalities used in the app are:
